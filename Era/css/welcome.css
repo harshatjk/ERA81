@@ -1,0 +1,29 @@
+@CHARSET "ISO-8859-1";
+
+.glyphicon.glyphicon-shopping-cart.other {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 96%;
+}
+
+#home-era-img {
+	margin-left: 43%;
+	margin-bottom: 10px;
+}
+
+#welcome-image {
+	min-height: 60%;
+	width : 100%;
+	height : 60%;
+	min-width: 1124px;
+	width: 100%;
+	height: 60;
+}
+
+.btn.btn-info{
+	margin-left: 10%;
+	margin-top: 200px;
+}
+
+}

@@ -1,0 +1,51 @@
+@CHARSET "ISO-8859-1";
+
+.glyphicon.glyphicon-shopping-cart {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 97%;
+}
+
+.glyphicon.glyphicon-th-large {
+	font-size: 20px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-left: 30%;
+}
+
+.glyphicon.glyphicon-th {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#checkOutButton {
+	margin-left: 80%;
+}
+
+#home-era-img {
+	margin-left: 43%;
+	margin-bottom: 10px;
+}
+
+#dropdownFilter {
+	padding-left: 10%;
+	padding-top: 20px;
+}
+
+#homeSearch {
+	padding-top: 20px;
+}
+
+#homeFont {
+	font-size: 15px;
+	padding-left: 15%;
+	padding-top: 5px;
+}
+
+#image-panels {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+}

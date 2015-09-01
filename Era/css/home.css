@@ -1,0 +1,351 @@
+@CHARSET "ISO-8859-1";
+
+.glyphicon.glyphicon-shopping-cart {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 2%;
+}
+
+.glyphicon.glyphicon-log-in {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 1%;
+}
+
+.glyphicon.glyphicon-user {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 86%;
+}
+
+.glyphicon.glyphicon-th-large {
+	font-size: 20px;
+	margin-top: 25px;
+	margin-bottom: 10px;
+	margin-left: 30%;
+}
+
+.glyphicon.glyphicon-th {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.glyphicon.glyphicon-shopping-cart.other {
+	font-size: 20px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 96%;
+}
+
+#glyphicon-chevron-down{
+	font-size: 17px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 70%;
+}
+
+#myModalLogin,#myModalRegistration {
+	text-align: center;
+}
+
+hr.vertical {
+	width: 0px;
+	height: 100%; /* or height in PX */
+}
+
+.nav.nav-tabs {
+	margin-top: 20px;
+}
+
+#checkOutButton {
+	margin-left: 80%;
+}
+
+#home-era-img {
+	margin-left: 43%;
+	margin-bottom: 10px;
+}
+
+#dropdownFilter {
+	padding-left: 10%;
+	padding-top: 20px;
+}
+
+#homeSearch {
+	padding-top: 20px;
+}
+
+#homeFont {
+	font-size: 15px;
+	padding-left: 15%;
+	padding-top: 5px;
+}
+
+#search {
+	padding-left: 80%;
+	padding-bottom: 10px;
+	padding-top: 20px;
+}
+
+#image-panels {
+	padding-top: 10px;
+	padding-bottom: 15px;
+}
+
+#profileInformationInput {
+	padding-top: 40px;
+}
+
+#saveProfileInformationButton {
+	margin-top: 40px;
+	margin-left: 80%;
+}
+
+#orderMonthButton {
+	padding-top: 25px;
+}
+
+#orderYearButton {
+	width: 15%;
+}
+
+#orderMonthButton, #orderYearButton {
+	display: inline-block;
+	padding-left: 15px;
+}
+
+#viewingOrdersButton {
+	margin-left: 10px;
+}
+
+#orderFont {
+	font-size: 15px;
+	padding-left: 15%;
+	padding-top: 5px;
+}
+
+#orderSearch {
+	padding-top: 25px;
+}
+
+#orderTable {
+	padding-top: 35px;
+}
+
+#wishlistImages {
+	padding-top: 25px;
+}
+
+/* PasswordSetting.html*/
+#passwordSettingInputs {
+	padding-top: 25px;
+}
+
+#shippingInfoTable {
+	padding-top: 25px;
+}
+
+#passwordSettingButton {
+	margin-top: 20px;
+	margin-left: 165px;
+}
+
+.panel-group {
+	padding-top: 10px;
+}
+
+#shippingDetails {
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+#shippingCheckBoxes {
+	padding-left: 15%;
+}
+
+#shippingValues {
+	padding-top: 7px;
+	padding-right: 100%;
+}
+
+#myModalLabel {
+	margin-left: 140px;
+}
+
+#shippingButton {
+	margin-left: 185px;
+}
+
+#shippingTo {
+	font-size: 15px;
+}
+
+#orderSummary {
+	font-size: 15px;
+}
+
+#orderDetails {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#paymentMethod {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+}
+
+#placeTheOrder {
+	margin-left: 470px;
+}
+
+#monthSelect {
+	width: 150px;
+}
+
+#yearSelect {
+	width: 150px;
+}
+
+#inlineMonth, #inlineYear {
+	display: inline-block;
+	padding-left: 25px;
+}
+
+/* Product.html*/
+#productImages {
+	margin-top: 40px;
+}
+
+.bs-example {
+	font-size: 15px;
+	margin-left: 35px;
+	padding-top: 15px;
+}
+
+#addToCartButton {
+	margin-top: 35px;
+	margin-left: 190px;
+}
+
+#productQuantity{
+	margin-top: 35px;
+	margin-left: 95px;
+}
+
+#quantity{
+	margin-left: 90px;
+	width: 40%;
+	margin-top:15px;
+}
+
+#addToCartButton{
+	margin-left: 120px;
+	margin-top:35px;
+}
+
+#addToWishButton{
+	margin-left: 108px;
+	margin-top: 15px;
+}
+
+#productDetailsTabs{
+	margin-top: 10px;
+}
+
+th {text-align:center}
+
+#checkoutDetails{
+	margin-left: 70px;
+	margin-right: 10px;
+}
+
+#myModalChekout{
+	text-align: center;
+}
+
+#facebookButton{
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 40px;
+}
+
+#loginHaveAnAccount,#signUpNew,#registerPolicy,#passwordCriteria{
+	text-align: center;
+}
+
+#remeberME{
+	margin-left: 80px;
+}
+
+#forgotPassword{
+	margin-left: 150px;
+}
+
+#loginerror{
+margin-left: 50px;
+}
+
+#formError{
+	margin-left: 30px;
+}
+
+#nullImage{
+	margin-left: 60px;
+	margin-top: 40px;
+}
+
+#termsandConditions{
+	text-align: center;
+}
+
+#detailsFooter{
+	text-align: center;
+}
+
+#checkoutSubtotal{
+	margin-right: 95px;
+}
+
+#ordersSubTotal{
+margin-left: 175px;
+}
+#ordersTax{
+margin-top: 10px;
+margin-left: 215px;
+}
+#ordersTotal{
+	margin-left: 205px;
+}
+#paymentButton{
+	margin-left: 180px;
+}
+#cvv{
+	width: 170px;
+}
+
+#cvv, #hover {
+	display: inline-block;
+}
+
+#profileInput{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#questionTabs{
+	margin-top: 40px;
+}
+#socialMedia{
+	margin-left: 220px;
+}
+
+#pay_now{
+	margin-top: 10px;
+	margin-left: 20px;
+}
+
+}
